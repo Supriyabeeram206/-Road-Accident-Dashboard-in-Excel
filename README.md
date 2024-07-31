@@ -12,3 +12,6 @@ Data collection and standardization
 Regression and machine learning models
 Data visualization with interactive dashboards
 Cross-functional team collaboration
+
+
+<img width="1280" alt="Screenshot 2024-06-13 at 4 34 41 PM" src="https://github.com/user-attachments/assets/46a429d2-c5e0-4e42-855a-448294d85ccf">
